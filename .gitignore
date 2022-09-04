@@ -43,9 +43,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /pubspec.lock
-ios/
-android/
-linux/
-web/
-macos/
-windows/
+/i_am_ruch.iml
+
